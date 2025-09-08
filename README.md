@@ -12,7 +12,7 @@ The project include:
 
 project-root/
 
-├─ Python_Ping.ipynb # Jupyter Notebook with full ICMP Ping implementation
+├─ icmp_ping.py # Jupyter Notebook with full ICMP Ping implementation
 
 markdown
 Copy code
