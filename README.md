@@ -25,7 +25,6 @@ Copy code
 - ⚙️ **Manual Packet Construction** – checksum calculation, header encoding, and payload definition.  
 - 🕒 **Timeout & Latency Measurement** – measure round-trip times with configurable timeout.  
 - 📡 **Cross-Platform (with Admin Rights)** – works on systems that allow raw socket creation.  
-- 📑 **Report Included** – PDF with explanation, methodology, and sample outputs.  
 
 ---
 
